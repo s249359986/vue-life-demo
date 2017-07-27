@@ -1,6 +1,6 @@
-# my-project
+# vue router
 
-> vue,life
+> vue,created,beforecreated,beforeUpdate,beforeRouteLeave
 
 ## Build Setup
 
