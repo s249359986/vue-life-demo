@@ -70,8 +70,8 @@ el 和 data 并未初始化
 
 
 ## 效果图
-#### 首页
+#### 首页生命周期console输出
 ![image](https://github.com/s249359986/vue-life-demo/blob/master/src/assets/index.png)
-#### 切换到page1
+#### 切换到page1生命周期console输出
 ![image](https://github.com/s249359986/vue-life-demo/blob/master/src/assets/page1_1.png)
 ![image](https://github.com/s249359986/vue-life-demo/blob/master/src/assets/page1_2.png)
